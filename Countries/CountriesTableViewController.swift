@@ -21,6 +21,10 @@ class CountriesTableViewController: UITableViewController, UISearchBarDelegate, 
 
         configureSearchController()
         getCountries()
+        
+        
+        navigationItem.prompt = "Countries"
+        
     }
     override func viewWillAppear(animated: Bool) {
         searchController.searchBar.hidden = false
@@ -50,7 +54,8 @@ class CountriesTableViewController: UITableViewController, UISearchBarDelegate, 
         searchController.searchBar.delegate = self
         searchController.searchBar.sizeToFit()
         searchController.hidesNavigationBarDuringPresentation = false
-        self.tableView.tableHeaderView = searchController.searchBar
+        //self.tableView.tableHeaderView = searchController.searchBar
+        navigationItem.titleView = searchController.searchBar
     }
     
     func searchBarTextDidBeginEditing(searchBar: UISearchBar) {
@@ -186,6 +191,8 @@ class CountriesTableViewController: UITableViewController, UISearchBarDelegate, 
         }
         
     }
+    
+    
     /*
     // MARK: - Navigation
 
