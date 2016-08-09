@@ -1,0 +1,4749 @@
+[
+    {
+        "cn_iso_2": "AD",
+        "cn_iso_3": "AND",
+        "cn_iso_nr": "20",
+        "cn_short_en": "Andorra",
+        "cn_short_local": "Andorra",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AE",
+        "cn_iso_3": "ARE",
+        "cn_iso_nr": "784",
+        "cn_short_en": "United Arab Emirates",
+        "cn_short_local": "الإمارات العربيّة المتّحدة",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AF",
+        "cn_iso_3": "AFG",
+        "cn_iso_nr": "4",
+        "cn_short_en": "Afghanistan",
+        "cn_short_local": "افغانستان",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AG",
+        "cn_iso_3": "ATG",
+        "cn_iso_nr": "28",
+        "cn_short_en": "Antigua and Barbuda",
+        "cn_short_local": "Antigua and Barbuda",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AI",
+        "cn_iso_3": "AIA",
+        "cn_iso_nr": "660",
+        "cn_short_en": "Anguilla",
+        "cn_short_local": "Anguilla",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AL",
+        "cn_iso_3": "ALB",
+        "cn_iso_nr": "8",
+        "cn_short_en": "Albania",
+        "cn_short_local": "Shqipëria",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AM",
+        "cn_iso_3": "ARM",
+        "cn_iso_nr": "51",
+        "cn_short_en": "Armenia",
+        "cn_short_local": "Հայաստան",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AN",
+        "cn_iso_3": "ANT",
+        "cn_iso_nr": "530",
+        "cn_short_en": "Netherlands Antilles",
+        "cn_short_local": "Nederlandse Antillen",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AO",
+        "cn_iso_3": "AGO",
+        "cn_iso_nr": "24",
+        "cn_short_en": "Angola",
+        "cn_short_local": "Angola",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AQ",
+        "cn_iso_3": "ATA",
+        "cn_iso_nr": "10",
+        "cn_short_en": "Antarctica",
+        "cn_short_local": "Antarctica",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AR",
+        "cn_iso_3": "ARG",
+        "cn_iso_nr": "32",
+        "cn_short_en": "Argentina",
+        "cn_short_local": "Argentina",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AS",
+        "cn_iso_3": "ASM",
+        "cn_iso_nr": "16",
+        "cn_short_en": "American Samoa",
+        "cn_short_local": "Amerika Samoa",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AT",
+        "cn_iso_3": "AUT",
+        "cn_iso_nr": "40",
+        "cn_short_en": "Austria",
+        "cn_short_local": "Österreich",
+        "states": [
+            {
+                "zn_country_iso_3": "AUT",
+                "zn_country_iso_nr": "40",
+                "zn_code": "WI",
+                "zn_name_local": "Wien"
+            },
+            {
+                "zn_country_iso_3": "AUT",
+                "zn_country_iso_nr": "40",
+                "zn_code": "NO",
+                "zn_name_local": "Niederösterreich"
+            },
+            {
+                "zn_country_iso_3": "AUT",
+                "zn_country_iso_nr": "40",
+                "zn_code": "OO",
+                "zn_name_local": "Oberösterreich"
+            },
+            {
+                "zn_country_iso_3": "AUT",
+                "zn_country_iso_nr": "40",
+                "zn_code": "SB",
+                "zn_name_local": "Salzburg"
+            },
+            {
+                "zn_country_iso_3": "AUT",
+                "zn_country_iso_nr": "40",
+                "zn_code": "KN",
+                "zn_name_local": "Kärnten"
+            },
+            {
+                "zn_country_iso_3": "AUT",
+                "zn_country_iso_nr": "40",
+                "zn_code": "ST",
+                "zn_name_local": "Steiermark"
+            },
+            {
+                "zn_country_iso_3": "AUT",
+                "zn_country_iso_nr": "40",
+                "zn_code": "TI",
+                "zn_name_local": "Tirol"
+            },
+            {
+                "zn_country_iso_3": "AUT",
+                "zn_country_iso_nr": "40",
+                "zn_code": "BL",
+                "zn_name_local": "Burgenland"
+            },
+            {
+                "zn_country_iso_3": "AUT",
+                "zn_country_iso_nr": "40",
+                "zn_code": "VB",
+                "zn_name_local": "Vorarlberg"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "AU",
+        "cn_iso_3": "AUS",
+        "cn_iso_nr": "36",
+        "cn_short_en": "Australia",
+        "cn_short_local": "Australia",
+        "states": [
+            {
+                "zn_country_iso_3": "AUS",
+                "zn_country_iso_nr": "36",
+                "zn_code": "ACT",
+                "zn_name_local": "Australian Capital Territory"
+            },
+            {
+                "zn_country_iso_3": "AUS",
+                "zn_country_iso_nr": "36",
+                "zn_code": "NSW",
+                "zn_name_local": "New South Wales"
+            },
+            {
+                "zn_country_iso_3": "AUS",
+                "zn_country_iso_nr": "36",
+                "zn_code": "NT",
+                "zn_name_local": "Northern Territory"
+            },
+            {
+                "zn_country_iso_3": "AUS",
+                "zn_country_iso_nr": "36",
+                "zn_code": "QLD",
+                "zn_name_local": "Queensland"
+            },
+            {
+                "zn_country_iso_3": "AUS",
+                "zn_country_iso_nr": "36",
+                "zn_code": "SA",
+                "zn_name_local": "South Australia"
+            },
+            {
+                "zn_country_iso_3": "AUS",
+                "zn_country_iso_nr": "36",
+                "zn_code": "TAS",
+                "zn_name_local": "Tasmania"
+            },
+            {
+                "zn_country_iso_3": "AUS",
+                "zn_country_iso_nr": "36",
+                "zn_code": "VIC",
+                "zn_name_local": "Victoria"
+            },
+            {
+                "zn_country_iso_3": "AUS",
+                "zn_country_iso_nr": "36",
+                "zn_code": "WA",
+                "zn_name_local": "Western Australia"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "AW",
+        "cn_iso_3": "ABW",
+        "cn_iso_nr": "533",
+        "cn_short_en": "Aruba",
+        "cn_short_local": "Aruba",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AZ",
+        "cn_iso_3": "AZE",
+        "cn_iso_nr": "31",
+        "cn_short_en": "Azerbaijan",
+        "cn_short_local": "Azərbaycan",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BA",
+        "cn_iso_3": "BIH",
+        "cn_iso_nr": "70",
+        "cn_short_en": "Bosnia and Herzegovina",
+        "cn_short_local": "BiH/БиХ",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BB",
+        "cn_iso_3": "BRB",
+        "cn_iso_nr": "52",
+        "cn_short_en": "Barbados",
+        "cn_short_local": "Barbados",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BD",
+        "cn_iso_3": "BGD",
+        "cn_iso_nr": "50",
+        "cn_short_en": "Bangladesh",
+        "cn_short_local": "বাংলাদেশ",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BE",
+        "cn_iso_3": "BEL",
+        "cn_iso_nr": "56",
+        "cn_short_en": "Belgium",
+        "cn_short_local": "Belgique",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BF",
+        "cn_iso_3": "BFA",
+        "cn_iso_nr": "854",
+        "cn_short_en": "Burkina Faso",
+        "cn_short_local": "Burkina",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BG",
+        "cn_iso_3": "BGR",
+        "cn_iso_nr": "100",
+        "cn_short_en": "Bulgaria",
+        "cn_short_local": "България",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BH",
+        "cn_iso_3": "BHR",
+        "cn_iso_nr": "48",
+        "cn_short_en": "Bahrain",
+        "cn_short_local": "البحري",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BI",
+        "cn_iso_3": "BDI",
+        "cn_iso_nr": "108",
+        "cn_short_en": "Burundi",
+        "cn_short_local": "Burundi",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BJ",
+        "cn_iso_3": "BEN",
+        "cn_iso_nr": "204",
+        "cn_short_en": "Benin",
+        "cn_short_local": "Bénin",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BM",
+        "cn_iso_3": "BMU",
+        "cn_iso_nr": "60",
+        "cn_short_en": "Bermuda",
+        "cn_short_local": "Bermuda",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BN",
+        "cn_iso_3": "BRN",
+        "cn_iso_nr": "96",
+        "cn_short_en": "Brunei",
+        "cn_short_local": "دارالسلام",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BO",
+        "cn_iso_3": "BOL",
+        "cn_iso_nr": "68",
+        "cn_short_en": "Bolivia",
+        "cn_short_local": "Bolivia",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BR",
+        "cn_iso_3": "BRA",
+        "cn_iso_nr": "76",
+        "cn_short_en": "Brazil",
+        "cn_short_local": "Brasil",
+        "states": [
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "AC",
+                "zn_name_local": "Acre"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "AP",
+                "zn_name_local": "Amapá"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "AL",
+                "zn_name_local": "Alagoas"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "AM",
+                "zn_name_local": "Amazonas"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "BA",
+                "zn_name_local": "Bahia"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "CE",
+                "zn_name_local": "Ceará"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "DF",
+                "zn_name_local": "Distrito Federal"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "ES",
+                "zn_name_local": "Espírito Santo"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "GO",
+                "zn_name_local": "Goiás"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "MA",
+                "zn_name_local": "Maranhão"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "MG",
+                "zn_name_local": "Minas Gerais"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "MS",
+                "zn_name_local": "Mato Grosso do Sul"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "MT",
+                "zn_name_local": "Mato Grosso"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "PA",
+                "zn_name_local": "Pará"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "PB",
+                "zn_name_local": "Paraíba"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "PE",
+                "zn_name_local": "Pernambuco"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "PI",
+                "zn_name_local": "Piauí"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "PR",
+                "zn_name_local": "Paraná"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "RJ",
+                "zn_name_local": "Rio de Janeiro"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "RN",
+                "zn_name_local": "Rio Grande do Norte"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "RO",
+                "zn_name_local": "Rondônia"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "RR",
+                "zn_name_local": "Roraima"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "RS",
+                "zn_name_local": "Rio Grande do Sul"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "SC",
+                "zn_name_local": "Santa Catarina"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "SE",
+                "zn_name_local": "Sergipe"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "SP",
+                "zn_name_local": "São Paulo"
+            },
+            {
+                "zn_country_iso_3": "BRA",
+                "zn_country_iso_nr": "76",
+                "zn_code": "TO",
+                "zn_name_local": "Tocantins"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "BS",
+        "cn_iso_3": "BHS",
+        "cn_iso_nr": "44",
+        "cn_short_en": "The Bahamas",
+        "cn_short_local": "The Bahamas",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BT",
+        "cn_iso_3": "BTN",
+        "cn_iso_nr": "64",
+        "cn_short_en": "Bhutan",
+        "cn_short_local": "Druk-Yul",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BV",
+        "cn_iso_3": "BVT",
+        "cn_iso_nr": "74",
+        "cn_short_en": "Bouvet Island",
+        "cn_short_local": "Bouvet Island",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BW",
+        "cn_iso_3": "BWA",
+        "cn_iso_nr": "72",
+        "cn_short_en": "Botswana",
+        "cn_short_local": "Botswana",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BY",
+        "cn_iso_3": "BLR",
+        "cn_iso_nr": "112",
+        "cn_short_en": "Belarus",
+        "cn_short_local": "Беларусь",
+        "states": []
+    },
+    {
+        "cn_iso_2": "BZ",
+        "cn_iso_3": "BLZ",
+        "cn_iso_nr": "84",
+        "cn_short_en": "Belize",
+        "cn_short_local": "Belize",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CA",
+        "cn_iso_3": "CAN",
+        "cn_iso_nr": "124",
+        "cn_short_en": "Canada",
+        "cn_short_local": "Canada",
+        "states": [
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "AB",
+                "zn_name_local": "Alberta"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "BC",
+                "zn_name_local": "British Columbia"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "MB",
+                "zn_name_local": "Manitoba"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "NF",
+                "zn_name_local": "Newfoundland and Labrabor"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "NB",
+                "zn_name_local": "New Brunswick"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "NS",
+                "zn_name_local": "Nova Scotia"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "NT",
+                "zn_name_local": "Northwest Territories"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "NU",
+                "zn_name_local": "Nunavut"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "ON",
+                "zn_name_local": "Ontario"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "PE",
+                "zn_name_local": "Prince Edward Island"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "QC",
+                "zn_name_local": "Québec"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "SK",
+                "zn_name_local": "Saskatchewan"
+            },
+            {
+                "zn_country_iso_3": "CAN",
+                "zn_country_iso_nr": "124",
+                "zn_code": "YT",
+                "zn_name_local": "Yukon Territory"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "CC",
+        "cn_iso_3": "CCK",
+        "cn_iso_nr": "166",
+        "cn_short_en": "Cocos (Keeling) Islands",
+        "cn_short_local": "Cocos (Keeling) Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CD",
+        "cn_iso_3": "COD",
+        "cn_iso_nr": "180",
+        "cn_short_en": "Congo",
+        "cn_short_local": "Congo",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CF",
+        "cn_iso_3": "CAF",
+        "cn_iso_nr": "140",
+        "cn_short_en": "Central African Republic",
+        "cn_short_local": "Centrafrique",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CG",
+        "cn_iso_3": "COG",
+        "cn_iso_nr": "178",
+        "cn_short_en": "Congo-Brazzaville",
+        "cn_short_local": "Congo-Brazzaville",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CH",
+        "cn_iso_3": "CHE",
+        "cn_iso_nr": "756",
+        "cn_short_en": "Switzerland",
+        "cn_short_local": "Schweiz",
+        "states": [
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "AG",
+                "zn_name_local": "Aargau"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "AI",
+                "zn_name_local": "Appenzell Innerrhoden"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "AR",
+                "zn_name_local": "Appenzell Ausserrhoden"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "BE",
+                "zn_name_local": "Bern"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "BL",
+                "zn_name_local": "Basel-Landschaft"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "BS",
+                "zn_name_local": "Basel-Stadt"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "FR",
+                "zn_name_local": "Freiburg"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "GE",
+                "zn_name_local": "Genf"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "GL",
+                "zn_name_local": "Glarus"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "GR",
+                "zn_name_local": "Graubünden"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "JU",
+                "zn_name_local": "Jura"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "LU",
+                "zn_name_local": "Luzern"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "NE",
+                "zn_name_local": "Neuenburg"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "NW",
+                "zn_name_local": "Nidwalden"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "OW",
+                "zn_name_local": "Obwalden"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "SG",
+                "zn_name_local": "St. Gallen"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "SH",
+                "zn_name_local": "Schaffhausen"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "SO",
+                "zn_name_local": "Solothurn"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "SZ",
+                "zn_name_local": "Schwyz"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "TG",
+                "zn_name_local": "Thurgau"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "TI",
+                "zn_name_local": "Tessin"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "UR",
+                "zn_name_local": "Uri"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "VD",
+                "zn_name_local": "Waadt"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "VS",
+                "zn_name_local": "Wallis"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "ZG",
+                "zn_name_local": "Zug"
+            },
+            {
+                "zn_country_iso_3": "CHE",
+                "zn_country_iso_nr": "756",
+                "zn_code": "ZH",
+                "zn_name_local": "Zürich"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "CI",
+        "cn_iso_3": "CIV",
+        "cn_iso_nr": "384",
+        "cn_short_en": "Côte d’Ivoire",
+        "cn_short_local": "Côte d’Ivoire",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CK",
+        "cn_iso_3": "COK",
+        "cn_iso_nr": "184",
+        "cn_short_en": "Cook Islands",
+        "cn_short_local": "Cook Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CL",
+        "cn_iso_3": "CHL",
+        "cn_iso_nr": "152",
+        "cn_short_en": "Chile",
+        "cn_short_local": "Chile",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CM",
+        "cn_iso_3": "CMR",
+        "cn_iso_nr": "120",
+        "cn_short_en": "Cameroon",
+        "cn_short_local": "Cameroun",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CN",
+        "cn_iso_3": "CHN",
+        "cn_iso_nr": "156",
+        "cn_short_en": "China",
+        "cn_short_local": "中华",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CO",
+        "cn_iso_3": "COL",
+        "cn_iso_nr": "170",
+        "cn_short_en": "Colombia",
+        "cn_short_local": "Colombia",
+        "states": []
+    },
+    
+    {
+        "cn_iso_2": "CR",
+        "cn_iso_3": "CRI",
+        "cn_iso_nr": "188",
+        "cn_short_en": "Costa Rica",
+        "cn_short_local": "Costa Rica",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CU",
+        "cn_iso_3": "CUB",
+        "cn_iso_nr": "192",
+        "cn_short_en": "Cuba",
+        "cn_short_local": "Cuba",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CV",
+        "cn_iso_3": "CPV",
+        "cn_iso_nr": "132",
+        "cn_short_en": "Cape Verde",
+        "cn_short_local": "Cabo Verde",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CX",
+        "cn_iso_3": "CXR",
+        "cn_iso_nr": "162",
+        "cn_short_en": "Christmas Island",
+        "cn_short_local": "Christmas Island",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CY",
+        "cn_iso_3": "CYP",
+        "cn_iso_nr": "196",
+        "cn_short_en": "Cyprus",
+        "cn_short_local": "Κύπρος / Kıbrıs",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CZ",
+        "cn_iso_3": "CZE",
+        "cn_iso_nr": "203",
+        "cn_short_en": "Czech Republic",
+        "cn_short_local": "Cesko",
+        "states": []
+    },
+    {
+        "cn_iso_2": "DE",
+        "cn_iso_3": "DEU",
+        "cn_iso_nr": "276",
+        "cn_short_en": "Germany",
+        "cn_short_local": "Deutschland",
+        "states": [
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "NDS",
+                "zn_name_local": "Niedersachsen"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "BAW",
+                "zn_name_local": "Baden-Württemberg"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "BAY",
+                "zn_name_local": "Bayern"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "BER",
+                "zn_name_local": "Berlin"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "BRG",
+                "zn_name_local": "Brandenburg"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "BRE",
+                "zn_name_local": "Bremen"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "HAM",
+                "zn_name_local": "Hamburg"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "HES",
+                "zn_name_local": "Hessen"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "MEC",
+                "zn_name_local": "Mecklenburg-Vorpommern"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "NRW",
+                "zn_name_local": "Nordrhein-Westfalen"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "RHE",
+                "zn_name_local": "Rheinland-Pfalz"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "SAR",
+                "zn_name_local": "Saarland"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "SAS",
+                "zn_name_local": "Sachsen"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "SAC",
+                "zn_name_local": "Sachsen-Anhalt"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "SCN",
+                "zn_name_local": "Schleswig-Holstein"
+            },
+            {
+                "zn_country_iso_3": "DEU",
+                "zn_country_iso_nr": "276",
+                "zn_code": "THE",
+                "zn_name_local": "Thüringen"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "DJ",
+        "cn_iso_3": "DJI",
+        "cn_iso_nr": "262",
+        "cn_short_en": "Djibouti",
+        "cn_short_local": "جيبوتي /Djibouti",
+        "states": []
+    },
+    {
+        "cn_iso_2": "DK",
+        "cn_iso_3": "DNK",
+        "cn_iso_nr": "208",
+        "cn_short_en": "Denmark",
+        "cn_short_local": "Danmark",
+        "states": []
+    },
+    {
+        "cn_iso_2": "DM",
+        "cn_iso_3": "DMA",
+        "cn_iso_nr": "212",
+        "cn_short_en": "Dominica",
+        "cn_short_local": "Dominica",
+        "states": []
+    },
+    {
+        "cn_iso_2": "DO",
+        "cn_iso_3": "DOM",
+        "cn_iso_nr": "214",
+        "cn_short_en": "Dominican Republic",
+        "cn_short_local": "Quisqueya",
+        "states": []
+    },
+    {
+        "cn_iso_2": "DZ",
+        "cn_iso_3": "DZA",
+        "cn_iso_nr": "12",
+        "cn_short_en": "Algeria",
+        "cn_short_local": "الجزائ",
+        "states": []
+    },
+    {
+        "cn_iso_2": "EC",
+        "cn_iso_3": "ECU",
+        "cn_iso_nr": "218",
+        "cn_short_en": "Ecuador",
+        "cn_short_local": "Ecuador",
+        "states": []
+    },
+    {
+        "cn_iso_2": "EE",
+        "cn_iso_3": "EST",
+        "cn_iso_nr": "233",
+        "cn_short_en": "Estonia",
+        "cn_short_local": "Eesti",
+        "states": []
+    },
+    {
+        "cn_iso_2": "EG",
+        "cn_iso_3": "EGY",
+        "cn_iso_nr": "818",
+        "cn_short_en": "Egypt",
+        "cn_short_local": "مصر",
+        "states": []
+    },
+    {
+        "cn_iso_2": "EH",
+        "cn_iso_3": "ESH",
+        "cn_iso_nr": "732",
+        "cn_short_en": "Western Sahara",
+        "cn_short_local": "الصحراء الغربي",
+        "states": []
+    },
+    {
+        "cn_iso_2": "ER",
+        "cn_iso_3": "ERI",
+        "cn_iso_nr": "232",
+        "cn_short_en": "Eritrea",
+        "cn_short_local": "ኤርትራ",
+        "states": []
+    },
+    {
+        "cn_iso_2": "ES",
+        "cn_iso_3": "ESP",
+        "cn_iso_nr": "724",
+        "cn_short_en": "Spain",
+        "cn_short_local": "España",
+        "states": [
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Alava",
+                "zn_name_local": "Alava"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Malaga",
+                "zn_name_local": "Malaga"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Segovia",
+                "zn_name_local": "Segovia"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Granada",
+                "zn_name_local": "Granada"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Jaen",
+                "zn_name_local": "Jaen"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Sevilla",
+                "zn_name_local": "Sevilla"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Barcelona",
+                "zn_name_local": "Barcelona"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Valencia",
+                "zn_name_local": "Valencia"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Alicante",
+                "zn_name_local": "Alicante"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Almeria",
+                "zn_name_local": "Almeria"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Asturias",
+                "zn_name_local": "Asturias"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Avila",
+                "zn_name_local": "Avila"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Badajoz",
+                "zn_name_local": "Badajoz"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Burgos",
+                "zn_name_local": "Burgos"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Caceres",
+                "zn_name_local": "Caceres"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Cadiz",
+                "zn_name_local": "Cadiz"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Cantabria",
+                "zn_name_local": "Cantabria"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Castellon",
+                "zn_name_local": "Castellon"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Ceuta",
+                "zn_name_local": "Ceuta"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Ciudad Real",
+                "zn_name_local": "Ciudad Real"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Cordoba",
+                "zn_name_local": "Cordoba"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Cuenca",
+                "zn_name_local": "Cuenca"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Girona",
+                "zn_name_local": "Girona"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Las Palmas",
+                "zn_name_local": "Las Palmas"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Guadalajara",
+                "zn_name_local": "Guadalajara"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Guipuzcoa",
+                "zn_name_local": "Guipuzcoa"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Huelva",
+                "zn_name_local": "Huelva"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Huesca",
+                "zn_name_local": "Huesca"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "A Coruña",
+                "zn_name_local": "A Coruña"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "La Rioja",
+                "zn_name_local": "La Rioja"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Leon",
+                "zn_name_local": "Leon"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Lugo",
+                "zn_name_local": "Lugo"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Lleida",
+                "zn_name_local": "Lleida"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Madrid",
+                "zn_name_local": "Madrid"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Baleares",
+                "zn_name_local": "Baleares"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Murcia",
+                "zn_name_local": "Murcia"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Navarra",
+                "zn_name_local": "Navarra"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Ourense",
+                "zn_name_local": "Ourense"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Palencia",
+                "zn_name_local": "Palencia"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Pontevedra",
+                "zn_name_local": "Pontevedra"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Salamanca",
+                "zn_name_local": "Salamanca"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Soria",
+                "zn_name_local": "Soria"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Tarragona",
+                "zn_name_local": "Tarragona"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Tenerife",
+                "zn_name_local": "Tenerife"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Teruel",
+                "zn_name_local": "Teruel"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Toledo",
+                "zn_name_local": "Toledo"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Valladolid",
+                "zn_name_local": "Valladolid"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Vizcaya",
+                "zn_name_local": "Vizcaya"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Zamora",
+                "zn_name_local": "Zamora"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Zaragoza",
+                "zn_name_local": "Zaragoza"
+            },
+            {
+                "zn_country_iso_3": "ESP",
+                "zn_country_iso_nr": "724",
+                "zn_code": "Melilla",
+                "zn_name_local": "Melilla"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "ET",
+        "cn_iso_3": "ETH",
+        "cn_iso_nr": "231",
+        "cn_short_en": "Ethiopia",
+        "cn_short_local": "ኢትዮጵያ",
+        "states": []
+    },
+    {
+        "cn_iso_2": "FI",
+        "cn_iso_3": "FIN",
+        "cn_iso_nr": "246",
+        "cn_short_en": "Finland",
+        "cn_short_local": "Suomi",
+        "states": []
+    },
+    {
+        "cn_iso_2": "FJ",
+        "cn_iso_3": "FJI",
+        "cn_iso_nr": "242",
+        "cn_short_en": "Fiji",
+        "cn_short_local": "Viti",
+        "states": []
+    },
+    {
+        "cn_iso_2": "FK",
+        "cn_iso_3": "FLK",
+        "cn_iso_nr": "238",
+        "cn_short_en": "Falkland Islands",
+        "cn_short_local": "Falkland Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "FM",
+        "cn_iso_3": "FSM",
+        "cn_iso_nr": "583",
+        "cn_short_en": "Micronesia",
+        "cn_short_local": "Micronesia",
+        "states": []
+    },
+    {
+        "cn_iso_2": "FO",
+        "cn_iso_3": "FRO",
+        "cn_iso_nr": "234",
+        "cn_short_en": "Faroes",
+        "cn_short_local": "Føroyar / Færøerne",
+        "states": []
+    },
+    {
+        "cn_iso_2": "FR",
+        "cn_iso_3": "FRA",
+        "cn_iso_nr": "250",
+        "cn_short_en": "France",
+        "cn_short_local": "France",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GA",
+        "cn_iso_3": "GAB",
+        "cn_iso_nr": "266",
+        "cn_short_en": "Gabon",
+        "cn_short_local": "Gabon",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GB",
+        "cn_iso_3": "GBR",
+        "cn_iso_nr": "826",
+        "cn_short_en": "United Kingdom",
+        "cn_short_local": "United Kingdom",
+        "states": [
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "ALD",
+                "zn_name_local": "Alderney"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "ARM",
+                "zn_name_local": "Armagh"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "ATM",
+                "zn_name_local": "Antrim"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "BDS",
+                "zn_name_local": "Borders"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "BFD",
+                "zn_name_local": "Bedfordshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "BIR",
+                "zn_name_local": "Birmingham"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "BLG",
+                "zn_name_local": "Blaenau Gwent"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "BRI",
+                "zn_name_local": "Bridgend"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "BRK",
+                "zn_name_local": "Berkshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "BRS",
+                "zn_name_local": "Bristol"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "BUX",
+                "zn_name_local": "Buckinghamshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CAP",
+                "zn_name_local": "Caerphilly"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CAR",
+                "zn_name_local": "Cardiff"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CAS",
+                "zn_name_local": "Carmarthenshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CBA",
+                "zn_name_local": "Cumbria"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CBE",
+                "zn_name_local": "Cambridgeshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CER",
+                "zn_name_local": "Ceredigion"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CHI",
+                "zn_name_local": "Channel Islands"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CHS",
+                "zn_name_local": "Cheshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CLD",
+                "zn_name_local": "Clwyd"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CNL",
+                "zn_name_local": "Cornwall"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CON",
+                "zn_name_local": "Conway"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CTR",
+                "zn_name_local": "Central"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "CVE",
+                "zn_name_local": "Cleveland"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "DEN",
+                "zn_name_local": "Denbighshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "DFD",
+                "zn_name_local": "Dyfed"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "DGL",
+                "zn_name_local": "Dumfries and Galloway"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "DHM",
+                "zn_name_local": "Durham"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "DOR",
+                "zn_name_local": "Dorset"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "DVN",
+                "zn_name_local": "Devon"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "DWN",
+                "zn_name_local": "Down"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "DYS",
+                "zn_name_local": "Derbyshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "ESX",
+                "zn_name_local": "Essex"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "FER",
+                "zn_name_local": "Fermanagh"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "FFE",
+                "zn_name_local": "Fife"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "FLI",
+                "zn_name_local": "Flintshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "FMH",
+                "zn_name_local": "County Fermanagh"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "GDD",
+                "zn_name_local": "Gwynedd"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "GLO",
+                "zn_name_local": "Gloucestershire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "GLR",
+                "zn_name_local": "Gloucester"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "GNM",
+                "zn_name_local": "Mid Glamorgan"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "GNS",
+                "zn_name_local": "South Glamorgan"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "GNW",
+                "zn_name_local": "West Glamorgan"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "GRN",
+                "zn_name_local": "Grampian"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "GUR",
+                "zn_name_local": "Guernsey"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "GWT",
+                "zn_name_local": "Gwent"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "HBS",
+                "zn_name_local": "Humberside"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "HFD",
+                "zn_name_local": "Hertfordshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "HLD",
+                "zn_name_local": "Highlands"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "HPH",
+                "zn_name_local": "Hampshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "HWR",
+                "zn_name_local": "Hereford and Worcester"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "IOM",
+                "zn_name_local": "Isle of Man"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "IOW",
+                "zn_name_local": "Isle of Wight"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "ISL",
+                "zn_name_local": "Isle of Anglesey"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "JER",
+                "zn_name_local": "Jersey"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "KNT",
+                "zn_name_local": "Kent"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "LCN",
+                "zn_name_local": "Lincolnshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "LDN",
+                "zn_name_local": "Greater London"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "LDR",
+                "zn_name_local": "Londonderry"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "LEC",
+                "zn_name_local": "Leicestershire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "LNH",
+                "zn_name_local": "Lancashire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "LON",
+                "zn_name_local": "London"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "LTE",
+                "zn_name_local": "East Lothian"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "LTM",
+                "zn_name_local": "Mid Lothian"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "LTW",
+                "zn_name_local": "West Lothian"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "MCH",
+                "zn_name_local": "Greater Manchester"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "MER",
+                "zn_name_local": "Merthyr Tydfil"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "MON",
+                "zn_name_local": "Monmouthshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "MSY",
+                "zn_name_local": "Merseyside"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "NET",
+                "zn_name_local": "Neath Port Talbot"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "NEW",
+                "zn_name_local": "Newport"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "NHM",
+                "zn_name_local": "Northamptonshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "NLD",
+                "zn_name_local": "Northumberland"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "NOR",
+                "zn_name_local": "Norfolk"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "NOT",
+                "zn_name_local": "Nottinghamshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "NWH",
+                "zn_name_local": "North West Highlands"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "OFE",
+                "zn_name_local": "Oxfordshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "ORK",
+                "zn_name_local": "Orkney"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "PEM",
+                "zn_name_local": "Pembrokeshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "PWS",
+                "zn_name_local": "Powys"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SCD",
+                "zn_name_local": "Strathclyde"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SFD",
+                "zn_name_local": "Staffordshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SFK",
+                "zn_name_local": "Suffolk"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SLD",
+                "zn_name_local": "Shetland"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SOM",
+                "zn_name_local": "Somerset"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SPE",
+                "zn_name_local": "Shropshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SRK",
+                "zn_name_local": "Sark"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SRY",
+                "zn_name_local": "Surrey"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SWA",
+                "zn_name_local": "Swansea"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SXE",
+                "zn_name_local": "East Sussex"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "SXW",
+                "zn_name_local": "West Sussex"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "TAF",
+                "zn_name_local": "Rhondda Cynon Taff"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "TOR",
+                "zn_name_local": "Torfaen"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "TWR",
+                "zn_name_local": "Tyne and Wear"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "TYR",
+                "zn_name_local": "Tyrone"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "TYS",
+                "zn_name_local": "Tayside"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "VAL",
+                "zn_name_local": "Vale of Glamorgan"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "WIL",
+                "zn_name_local": "Western Isles"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "WKS",
+                "zn_name_local": "Warwickshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "WLT",
+                "zn_name_local": "Wiltshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "WMD",
+                "zn_name_local": "West Midlands"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "WRE",
+                "zn_name_local": "Wrexham"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "YSN",
+                "zn_name_local": "North Yorkshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "YSS",
+                "zn_name_local": "South Yorkshire"
+            },
+            {
+                "zn_country_iso_3": "GBR",
+                "zn_country_iso_nr": "826",
+                "zn_code": "YSW",
+                "zn_name_local": "West Yorkshire"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "GD",
+        "cn_iso_3": "GRD",
+        "cn_iso_nr": "308",
+        "cn_short_en": "Grenada",
+        "cn_short_local": "Grenada",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GE",
+        "cn_iso_3": "GEO",
+        "cn_iso_nr": "268",
+        "cn_short_en": "Georgia",
+        "cn_short_local": "საქართველო",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GF",
+        "cn_iso_3": "GUF",
+        "cn_iso_nr": "254",
+        "cn_short_en": "French Guiana",
+        "cn_short_local": "Guyane française",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GH",
+        "cn_iso_3": "GHA",
+        "cn_iso_nr": "288",
+        "cn_short_en": "Ghana",
+        "cn_short_local": "Ghana",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GI",
+        "cn_iso_3": "GIB",
+        "cn_iso_nr": "292",
+        "cn_short_en": "Gibraltar",
+        "cn_short_local": "Gibraltar",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GL",
+        "cn_iso_3": "GRL",
+        "cn_iso_nr": "304",
+        "cn_short_en": "Greenland",
+        "cn_short_local": "Grønland",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GM",
+        "cn_iso_3": "GMB",
+        "cn_iso_nr": "270",
+        "cn_short_en": "Gambia",
+        "cn_short_local": "Gambia",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GN",
+        "cn_iso_3": "GIN",
+        "cn_iso_nr": "324",
+        "cn_short_en": "Guinea",
+        "cn_short_local": "Guinée",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GP",
+        "cn_iso_3": "GLP",
+        "cn_iso_nr": "312",
+        "cn_short_en": "Guadeloupe",
+        "cn_short_local": "Guadeloupe",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GQ",
+        "cn_iso_3": "GNQ",
+        "cn_iso_nr": "226",
+        "cn_short_en": "Equatorial Guinea",
+        "cn_short_local": "Guinea Ecuatorial",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GR",
+        "cn_iso_3": "GRC",
+        "cn_iso_nr": "300",
+        "cn_short_en": "Greece",
+        "cn_short_local": "Ελλάδα",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GS",
+        "cn_iso_3": "SGS",
+        "cn_iso_nr": "239",
+        "cn_short_en": "South Georgia and the South Sandwich Islands",
+        "cn_short_local": "South Georgia and the South Sandwich Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GT",
+        "cn_iso_3": "GTM",
+        "cn_iso_nr": "320",
+        "cn_short_en": "Guatemala",
+        "cn_short_local": "Guatemala",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GU",
+        "cn_iso_3": "GUM",
+        "cn_iso_nr": "316",
+        "cn_short_en": "Guam",
+        "cn_short_local": "Guåhån",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GW",
+        "cn_iso_3": "GNB",
+        "cn_iso_nr": "624",
+        "cn_short_en": "Guinea-Bissau",
+        "cn_short_local": "Guiné-Bissau",
+        "states": []
+    },
+    {
+        "cn_iso_2": "GY",
+        "cn_iso_3": "GUY",
+        "cn_iso_nr": "328",
+        "cn_short_en": "Guyana",
+        "cn_short_local": "Guyana",
+        "states": []
+    },
+    {
+        "cn_iso_2": "HK",
+        "cn_iso_3": "HKG",
+        "cn_iso_nr": "344",
+        "cn_short_en": "Hong Kong SAR of China",
+        "cn_short_local": "香港",
+        "states": []
+    },
+    {
+        "cn_iso_2": "HN",
+        "cn_iso_3": "HND",
+        "cn_iso_nr": "340",
+        "cn_short_en": "Honduras",
+        "cn_short_local": "Honduras",
+        "states": []
+    },
+    {
+        "cn_iso_2": "HR",
+        "cn_iso_3": "HRV",
+        "cn_iso_nr": "191",
+        "cn_short_en": "Croatia",
+        "cn_short_local": "Hrvatska",
+        "states": []
+    },
+    {
+        "cn_iso_2": "HT",
+        "cn_iso_3": "HTI",
+        "cn_iso_nr": "332",
+        "cn_short_en": "Haiti",
+        "cn_short_local": "Ayiti",
+        "states": []
+    },
+    {
+        "cn_iso_2": "HU",
+        "cn_iso_3": "HUN",
+        "cn_iso_nr": "348",
+        "cn_short_en": "Hungary",
+        "cn_short_local": "Magyarország",
+        "states": []
+    },
+    {
+        "cn_iso_2": "ID",
+        "cn_iso_3": "IDN",
+        "cn_iso_nr": "360",
+        "cn_short_en": "Indonesia",
+        "cn_short_local": "Indonesia",
+        "states": []
+    },
+    {
+        "cn_iso_2": "IE",
+        "cn_iso_3": "IRL",
+        "cn_iso_nr": "372",
+        "cn_short_en": "Ireland",
+        "cn_short_local": "Éire",
+        "states": [
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "CAR",
+                "zn_name_local": "Carlow"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "CAV",
+                "zn_name_local": "Cavan"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "CLA",
+                "zn_name_local": "Clare"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "COR",
+                "zn_name_local": "Cork"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "DON",
+                "zn_name_local": "Donegal"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "DUB",
+                "zn_name_local": "Dublin"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "GAL",
+                "zn_name_local": "Galway"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "KER",
+                "zn_name_local": "Kerry"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "KIL",
+                "zn_name_local": "Kildare"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "KLK",
+                "zn_name_local": "Kilkenny"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "LAO",
+                "zn_name_local": "Laois"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "LEI",
+                "zn_name_local": "Leitrim"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "LIM",
+                "zn_name_local": "Limerick"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "LON",
+                "zn_name_local": "Longford"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "LOU",
+                "zn_name_local": "Louth"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "MAY",
+                "zn_name_local": "Mayo"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "MEA",
+                "zn_name_local": "Meath"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "MON",
+                "zn_name_local": "Monaghan"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "OFF",
+                "zn_name_local": "Offaly"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "ROS",
+                "zn_name_local": "Roscommon"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "SLI",
+                "zn_name_local": "Sligo"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "TIP",
+                "zn_name_local": "Tipperary"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "WAT",
+                "zn_name_local": "Waterford"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "WES",
+                "zn_name_local": "Westmeath"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "WEX",
+                "zn_name_local": "Wexford"
+            },
+            {
+                "zn_country_iso_3": "IRL",
+                "zn_country_iso_nr": "372",
+                "zn_code": "WIC",
+                "zn_name_local": "Wicklow"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "IL",
+        "cn_iso_3": "ISR",
+        "cn_iso_nr": "376",
+        "cn_short_en": "Israel",
+        "cn_short_local": "ישראל",
+        "states": []
+    },
+    {
+        "cn_iso_2": "IN",
+        "cn_iso_3": "IND",
+        "cn_iso_nr": "356",
+        "cn_short_en": "India",
+        "cn_short_local": "India",
+        "states": []
+    },
+    {
+        "cn_iso_2": "IO",
+        "cn_iso_3": "IOT",
+        "cn_iso_nr": "86",
+        "cn_short_en": "British Indian Ocean Territory",
+        "cn_short_local": "British Indian Ocean Territory",
+        "states": []
+    },
+    {
+        "cn_iso_2": "IQ",
+        "cn_iso_3": "IRQ",
+        "cn_iso_nr": "368",
+        "cn_short_en": "Iraq",
+        "cn_short_local": "العراق / عيَراق",
+        "states": []
+    },
+    {
+        "cn_iso_2": "IR",
+        "cn_iso_3": "IRN",
+        "cn_iso_nr": "364",
+        "cn_short_en": "Iran",
+        "cn_short_local": "ايران",
+        "states": []
+    },
+    {
+        "cn_iso_2": "IS",
+        "cn_iso_3": "ISL",
+        "cn_iso_nr": "352",
+        "cn_short_en": "Iceland",
+        "cn_short_local": "Ísland",
+        "states": []
+    },
+    {
+        "cn_iso_2": "IT",
+        "cn_iso_3": "ITA",
+        "cn_iso_nr": "380",
+        "cn_short_en": "Italy",
+        "cn_short_local": "Italia",
+        "states": [
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "AG",
+                "zn_name_local": "Agrigento"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "AL",
+                "zn_name_local": "Alessandria"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "AN",
+                "zn_name_local": "Ancona"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "AO",
+                "zn_name_local": "Aosta"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "AP",
+                "zn_name_local": "Ascoli Piceno"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "AQ",
+                "zn_name_local": "L'Aquila"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "AR",
+                "zn_name_local": "Arezzo"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "AT",
+                "zn_name_local": "Asti"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "AV",
+                "zn_name_local": "Avellino"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "BA",
+                "zn_name_local": "Bari"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "BG",
+                "zn_name_local": "Bergamo"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "BI",
+                "zn_name_local": "Biella"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "BL",
+                "zn_name_local": "Belluno"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "BN",
+                "zn_name_local": "Benevento"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "BO",
+                "zn_name_local": "Bologna"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "BR",
+                "zn_name_local": "Brindisi"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "BS",
+                "zn_name_local": "Brescia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "BZ",
+                "zn_name_local": "Bolzano"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CA",
+                "zn_name_local": "Cagliari"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CB",
+                "zn_name_local": "Campobasso"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CE",
+                "zn_name_local": "Caserta"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CH",
+                "zn_name_local": "Chieti"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CL",
+                "zn_name_local": "Caltanissetta"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CN",
+                "zn_name_local": "Cuneo"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CO",
+                "zn_name_local": "Como"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CR",
+                "zn_name_local": "Cremona"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CS",
+                "zn_name_local": "Cosenza"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CT",
+                "zn_name_local": "Catania"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "CZ",
+                "zn_name_local": "Catanzaro"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "EN",
+                "zn_name_local": "Enna"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "FE",
+                "zn_name_local": "Ferrara"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "FG",
+                "zn_name_local": "Foggia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "FI",
+                "zn_name_local": "Firenze"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "FO",
+                "zn_name_local": "Forli"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "FR",
+                "zn_name_local": "Frosinone"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "GE",
+                "zn_name_local": "Genova"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "GO",
+                "zn_name_local": "Gorizia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "GR",
+                "zn_name_local": "Grosseto"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "IM",
+                "zn_name_local": "Imperia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "IS",
+                "zn_name_local": "Isernia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "KR",
+                "zn_name_local": "Crotone"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "LC",
+                "zn_name_local": "Lecco"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "LE",
+                "zn_name_local": "Lecce"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "LI",
+                "zn_name_local": "Livorno"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "LO",
+                "zn_name_local": "Lodi"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "LT",
+                "zn_name_local": "Latina"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "LU",
+                "zn_name_local": "Lucca"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "MC",
+                "zn_name_local": "Macerata"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "ME",
+                "zn_name_local": "Messina"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "MI",
+                "zn_name_local": "Milano"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "MN",
+                "zn_name_local": "Mantova"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "MO",
+                "zn_name_local": "Modena"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "MS",
+                "zn_name_local": "Massa Carrara"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "MT",
+                "zn_name_local": "Matera"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "NA",
+                "zn_name_local": "Napoli"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "NO",
+                "zn_name_local": "Novara"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "NU",
+                "zn_name_local": "Nuoro"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "OR",
+                "zn_name_local": "Oristano"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PA",
+                "zn_name_local": "Palermo"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PC",
+                "zn_name_local": "Piacenza"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PD",
+                "zn_name_local": "Padova"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PE",
+                "zn_name_local": "Pescara"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PG",
+                "zn_name_local": "Perugia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PI",
+                "zn_name_local": "Pisa"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PN",
+                "zn_name_local": "Pordenone"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PR",
+                "zn_name_local": "Parma"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PS",
+                "zn_name_local": "Pesora"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PT",
+                "zn_name_local": "Pistoia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PV",
+                "zn_name_local": "Pavia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PO",
+                "zn_name_local": "Prato"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "PZ",
+                "zn_name_local": "Potenza"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "RA",
+                "zn_name_local": "Ravenna"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "RC",
+                "zn_name_local": "Reggio Calabria"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "RE",
+                "zn_name_local": "Reggio Emilia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "RG",
+                "zn_name_local": "Ragusa"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "RI",
+                "zn_name_local": "Rieti"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "RM",
+                "zn_name_local": "Roma"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "RN",
+                "zn_name_local": "Rimini"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "RO",
+                "zn_name_local": "Rovigo"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "SA",
+                "zn_name_local": "Salerno"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "SI",
+                "zn_name_local": "Siena"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "SO",
+                "zn_name_local": "Sondrio"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "SP",
+                "zn_name_local": "La Spezia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "SR",
+                "zn_name_local": "Siracusa"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "SS",
+                "zn_name_local": "Sassari"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "SV",
+                "zn_name_local": "Savona"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "TA",
+                "zn_name_local": "Taranto"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "TE",
+                "zn_name_local": "Teramo"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "TN",
+                "zn_name_local": "Trento"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "TO",
+                "zn_name_local": "Torino"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "TP",
+                "zn_name_local": "Trapani"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "TR",
+                "zn_name_local": "Terni"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "TS",
+                "zn_name_local": "Trieste"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "TV",
+                "zn_name_local": "Treviso"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "UD",
+                "zn_name_local": "Udine"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "VA",
+                "zn_name_local": "Varese"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "VC",
+                "zn_name_local": "Vercelli"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "VE",
+                "zn_name_local": "Venezia"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "VI",
+                "zn_name_local": "Vicenza"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "VP",
+                "zn_name_local": "Verbania"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "VR",
+                "zn_name_local": "Verona"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "VT",
+                "zn_name_local": "Viterbo"
+            },
+            {
+                "zn_country_iso_3": "ITA",
+                "zn_country_iso_nr": "380",
+                "zn_code": "VV",
+                "zn_name_local": "Vibo Valentia"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "JM",
+        "cn_iso_3": "JAM",
+        "cn_iso_nr": "388",
+        "cn_short_en": "Jamaica",
+        "cn_short_local": "Jamaica",
+        "states": []
+    },
+    {
+        "cn_iso_2": "JO",
+        "cn_iso_3": "JOR",
+        "cn_iso_nr": "400",
+        "cn_short_en": "Jordan",
+        "cn_short_local": "أردنّ",
+        "states": []
+    },
+    {
+        "cn_iso_2": "JP",
+        "cn_iso_3": "JPN",
+        "cn_iso_nr": "392",
+        "cn_short_en": "Japan",
+        "cn_short_local": "日本",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KE",
+        "cn_iso_3": "KEN",
+        "cn_iso_nr": "404",
+        "cn_short_en": "Kenya",
+        "cn_short_local": "Kenya",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KG",
+        "cn_iso_3": "KGZ",
+        "cn_iso_nr": "417",
+        "cn_short_en": "Kyrgyzstan",
+        "cn_short_local": "Кыргызстан",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KH",
+        "cn_iso_3": "KHM",
+        "cn_iso_nr": "116",
+        "cn_short_en": "Cambodia",
+        "cn_short_local": "Kâmpŭchea",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KI",
+        "cn_iso_3": "KIR",
+        "cn_iso_nr": "296",
+        "cn_short_en": "Kiribati",
+        "cn_short_local": "Kiribati",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KM",
+        "cn_iso_3": "COM",
+        "cn_iso_nr": "174",
+        "cn_short_en": "Comoros",
+        "cn_short_local": "اتحاد القمر",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KN",
+        "cn_iso_3": "KNA",
+        "cn_iso_nr": "659",
+        "cn_short_en": "Saint Kitts and Nevis",
+        "cn_short_local": "Saint Kitts and Nevis",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KP",
+        "cn_iso_3": "PRK",
+        "cn_iso_nr": "408",
+        "cn_short_en": "North Korea",
+        "cn_short_local": "북조선",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KR",
+        "cn_iso_3": "KOR",
+        "cn_iso_nr": "410",
+        "cn_short_en": "South Korea",
+        "cn_short_local": "한국",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KW",
+        "cn_iso_3": "KWT",
+        "cn_iso_nr": "414",
+        "cn_short_en": "Kuwait",
+        "cn_short_local": "الكويت",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KY",
+        "cn_iso_3": "CYM",
+        "cn_iso_nr": "136",
+        "cn_short_en": "Cayman Islands",
+        "cn_short_local": "Cayman Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "KZ",
+        "cn_iso_3": "KAZ",
+        "cn_iso_nr": "398",
+        "cn_short_en": "Kazakhstan",
+        "cn_short_local": "Қазақстан /Казахстан",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LA",
+        "cn_iso_3": "LAO",
+        "cn_iso_nr": "418",
+        "cn_short_en": "Laos",
+        "cn_short_local": "ເມືອງລາວ",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LB",
+        "cn_iso_3": "LBN",
+        "cn_iso_nr": "422",
+        "cn_short_en": "Lebanon",
+        "cn_short_local": "لبنان",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LC",
+        "cn_iso_3": "LCA",
+        "cn_iso_nr": "662",
+        "cn_short_en": "Saint Lucia",
+        "cn_short_local": "Saint Lucia",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LI",
+        "cn_iso_3": "LIE",
+        "cn_iso_nr": "438",
+        "cn_short_en": "Liechtenstein",
+        "cn_short_local": "Liechtenstein",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LK",
+        "cn_iso_3": "LKA",
+        "cn_iso_nr": "144",
+        "cn_short_en": "Sri Lanka",
+        "cn_short_local": "ශ්‍රී ලංකා / இலங்கை",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LR",
+        "cn_iso_3": "LBR",
+        "cn_iso_nr": "430",
+        "cn_short_en": "Liberia",
+        "cn_short_local": "Liberia",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LS",
+        "cn_iso_3": "LSO",
+        "cn_iso_nr": "426",
+        "cn_short_en": "Lesotho",
+        "cn_short_local": "Lesotho",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LT",
+        "cn_iso_3": "LTU",
+        "cn_iso_nr": "440",
+        "cn_short_en": "Lithuania",
+        "cn_short_local": "Lietuva",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LU",
+        "cn_iso_3": "LUX",
+        "cn_iso_nr": "442",
+        "cn_short_en": "Luxembourg",
+        "cn_short_local": "Luxemburg",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LV",
+        "cn_iso_3": "LVA",
+        "cn_iso_nr": "428",
+        "cn_short_en": "Latvia",
+        "cn_short_local": "Latvija",
+        "states": []
+    },
+    {
+        "cn_iso_2": "LY",
+        "cn_iso_3": "LBY",
+        "cn_iso_nr": "434",
+        "cn_short_en": "Libya",
+        "cn_short_local": "الليبية",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MA",
+        "cn_iso_3": "MAR",
+        "cn_iso_nr": "504",
+        "cn_short_en": "Morocco",
+        "cn_short_local": "المغربية",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MC",
+        "cn_iso_3": "MCO",
+        "cn_iso_nr": "492",
+        "cn_short_en": "Monaco",
+        "cn_short_local": "Monaco",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MD",
+        "cn_iso_3": "MDA",
+        "cn_iso_nr": "498",
+        "cn_short_en": "Moldova",
+        "cn_short_local": "Moldova",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MG",
+        "cn_iso_3": "MDG",
+        "cn_iso_nr": "450",
+        "cn_short_en": "Madagascar",
+        "cn_short_local": "Madagascar",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MH",
+        "cn_iso_3": "MHL",
+        "cn_iso_nr": "584",
+        "cn_short_en": "Marshall Islands",
+        "cn_short_local": "Marshall Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MK",
+        "cn_iso_3": "MKD",
+        "cn_iso_nr": "807",
+        "cn_short_en": "Macedonia",
+        "cn_short_local": "Македонија",
+        "states": []
+    },
+    {
+        "cn_iso_2": "ML",
+        "cn_iso_3": "MLI",
+        "cn_iso_nr": "466",
+        "cn_short_en": "Mali",
+        "cn_short_local": "Mali",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MM",
+        "cn_iso_3": "MMR",
+        "cn_iso_nr": "104",
+        "cn_short_en": "Myanmar",
+        "cn_short_local": "Myanmar",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MN",
+        "cn_iso_3": "MNG",
+        "cn_iso_nr": "496",
+        "cn_short_en": "Mongolia",
+        "cn_short_local": "Монгол Улс",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MO",
+        "cn_iso_3": "MAC",
+        "cn_iso_nr": "446",
+        "cn_short_en": "Macao SAR of China",
+        "cn_short_local": "澳門 / Macau",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MP",
+        "cn_iso_3": "MNP",
+        "cn_iso_nr": "580",
+        "cn_short_en": "Northern Marianas",
+        "cn_short_local": "Northern Marianas",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MQ",
+        "cn_iso_3": "MTQ",
+        "cn_iso_nr": "474",
+        "cn_short_en": "Martinique",
+        "cn_short_local": "Martinique",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MR",
+        "cn_iso_3": "MRT",
+        "cn_iso_nr": "478",
+        "cn_short_en": "Mauritania",
+        "cn_short_local": "الموريتانية",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MS",
+        "cn_iso_3": "MSR",
+        "cn_iso_nr": "500",
+        "cn_short_en": "Montserrat",
+        "cn_short_local": "Montserrat",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MT",
+        "cn_iso_3": "MLT",
+        "cn_iso_nr": "470",
+        "cn_short_en": "Malta",
+        "cn_short_local": "Malta",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MU",
+        "cn_iso_3": "MUS",
+        "cn_iso_nr": "480",
+        "cn_short_en": "Mauritius",
+        "cn_short_local": "Mauritius",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MV",
+        "cn_iso_3": "MDV",
+        "cn_iso_nr": "462",
+        "cn_short_en": "Maldives",
+        "cn_short_local": "ޖުމުހޫރިއްޔ",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MW",
+        "cn_iso_3": "MWI",
+        "cn_iso_nr": "454",
+        "cn_short_en": "Malawi",
+        "cn_short_local": "Malawi",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MX",
+        "cn_iso_3": "MEX",
+        "cn_iso_nr": "484",
+        "cn_short_en": "Mexico",
+        "cn_short_local": "México",
+        "states": [
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "AGS",
+                "zn_name_local": "Aguascalientes"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "BCS",
+                "zn_name_local": "Baja California Sur"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "BC",
+                "zn_name_local": "Baja California Norte"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "CAM",
+                "zn_name_local": "Campeche"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "CHIS",
+                "zn_name_local": "Chiapas"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "CHIH",
+                "zn_name_local": "Chihuahua"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "COAH",
+                "zn_name_local": "Coahuila"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "COL",
+                "zn_name_local": "Colima"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "DIF",
+                "zn_name_local": "Distrito Federal"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "DGO",
+                "zn_name_local": "Durango"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "GTO",
+                "zn_name_local": "Guanajuato"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "GRO",
+                "zn_name_local": "Guerrero"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "HGO",
+                "zn_name_local": "Hidalgo"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "JAL",
+                "zn_name_local": "Jalisco"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "MEX",
+                "zn_name_local": "México"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "MICH",
+                "zn_name_local": "Michoacán"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "MOR",
+                "zn_name_local": "Morelos"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "NAY",
+                "zn_name_local": "Nayarit"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "NL",
+                "zn_name_local": "Nuevo León"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "OAX",
+                "zn_name_local": "Oaxaca"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "PUE",
+                "zn_name_local": "Puebla"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "QRO",
+                "zn_name_local": "Querétaro"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "QROO",
+                "zn_name_local": "Quintana Roo"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "SLP",
+                "zn_name_local": "San Luis Potosí"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "SIN",
+                "zn_name_local": "Sinaloa"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "SON",
+                "zn_name_local": "Sonora"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "TAB",
+                "zn_name_local": "Tabasco"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "TAMPS",
+                "zn_name_local": "Tamaulipas"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "TLAX",
+                "zn_name_local": "Tlaxcala"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "VER",
+                "zn_name_local": "Veracruz"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "YUC",
+                "zn_name_local": "Yucatán"
+            },
+            {
+                "zn_country_iso_3": "MEX",
+                "zn_country_iso_nr": "484",
+                "zn_code": "ZAC",
+                "zn_name_local": "Zacatecas"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "MY",
+        "cn_iso_3": "MYS",
+        "cn_iso_nr": "458",
+        "cn_short_en": "Malaysia",
+        "cn_short_local": "مليسيا",
+        "states": []
+    },
+    {
+        "cn_iso_2": "MZ",
+        "cn_iso_3": "MOZ",
+        "cn_iso_nr": "508",
+        "cn_short_en": "Mozambique",
+        "cn_short_local": "Moçambique",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NA",
+        "cn_iso_3": "NAM",
+        "cn_iso_nr": "516",
+        "cn_short_en": "Namibia",
+        "cn_short_local": "Namibia",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NC",
+        "cn_iso_3": "NCL",
+        "cn_iso_nr": "540",
+        "cn_short_en": "New Caledonia",
+        "cn_short_local": "Nouvelle-Calédonie",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NE",
+        "cn_iso_3": "NER",
+        "cn_iso_nr": "562",
+        "cn_short_en": "Niger",
+        "cn_short_local": "Niger",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NF",
+        "cn_iso_3": "NFK",
+        "cn_iso_nr": "574",
+        "cn_short_en": "Norfolk Island",
+        "cn_short_local": "Norfolk Island",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NG",
+        "cn_iso_3": "NGA",
+        "cn_iso_nr": "566",
+        "cn_short_en": "Nigeria",
+        "cn_short_local": "Nigeria",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NI",
+        "cn_iso_3": "NIC",
+        "cn_iso_nr": "558",
+        "cn_short_en": "Nicaragua",
+        "cn_short_local": "Nicaragua",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NL",
+        "cn_iso_3": "NLD",
+        "cn_iso_nr": "528",
+        "cn_short_en": "Netherlands",
+        "cn_short_local": "Nederland",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NO",
+        "cn_iso_3": "NOR",
+        "cn_iso_nr": "578",
+        "cn_short_en": "Norway",
+        "cn_short_local": "Norge",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NP",
+        "cn_iso_3": "NPL",
+        "cn_iso_nr": "524",
+        "cn_short_en": "Nepal",
+        "cn_short_local": "नेपाल",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NR",
+        "cn_iso_3": "NRU",
+        "cn_iso_nr": "520",
+        "cn_short_en": "Nauru",
+        "cn_short_local": "Naoero",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NU",
+        "cn_iso_3": "NIU",
+        "cn_iso_nr": "570",
+        "cn_short_en": "Niue",
+        "cn_short_local": "Niue",
+        "states": []
+    },
+    {
+        "cn_iso_2": "NZ",
+        "cn_iso_3": "NZL",
+        "cn_iso_nr": "554",
+        "cn_short_en": "New Zealand",
+        "cn_short_local": "New Zealand / Aotearoa",
+        "states": []
+    },
+    {
+        "cn_iso_2": "OM",
+        "cn_iso_3": "OMN",
+        "cn_iso_nr": "512",
+        "cn_short_en": "Oman",
+        "cn_short_local": "عُمان",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PA",
+        "cn_iso_3": "PAN",
+        "cn_iso_nr": "591",
+        "cn_short_en": "Panama",
+        "cn_short_local": "Panamá",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PE",
+        "cn_iso_3": "PER",
+        "cn_iso_nr": "604",
+        "cn_short_en": "Peru",
+        "cn_short_local": "Perú",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PF",
+        "cn_iso_3": "PYF",
+        "cn_iso_nr": "258",
+        "cn_short_en": "French Polynesia",
+        "cn_short_local": "Polynésie française",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PG",
+        "cn_iso_3": "PNG",
+        "cn_iso_nr": "598",
+        "cn_short_en": "Papua New Guinea",
+        "cn_short_local": "Papua New Guinea / Papua Niugini",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PH",
+        "cn_iso_3": "PHL",
+        "cn_iso_nr": "608",
+        "cn_short_en": "Philippines",
+        "cn_short_local": "Philippines",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PK",
+        "cn_iso_3": "PAK",
+        "cn_iso_nr": "586",
+        "cn_short_en": "Pakistan",
+        "cn_short_local": "پاکستان",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PL",
+        "cn_iso_3": "POL",
+        "cn_iso_nr": "616",
+        "cn_short_en": "Poland",
+        "cn_short_local": "Polska",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PM",
+        "cn_iso_3": "SPM",
+        "cn_iso_nr": "666",
+        "cn_short_en": "Saint Pierre and Miquelon",
+        "cn_short_local": "Saint-Pierre-et-Miquelon",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PN",
+        "cn_iso_3": "PCN",
+        "cn_iso_nr": "612",
+        "cn_short_en": "Pitcairn Islands",
+        "cn_short_local": "Pitcairn Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PR",
+        "cn_iso_3": "PRI",
+        "cn_iso_nr": "630",
+        "cn_short_en": "Puerto Rico",
+        "cn_short_local": "Puerto Rico",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PT",
+        "cn_iso_3": "PRT",
+        "cn_iso_nr": "620",
+        "cn_short_en": "Portugal",
+        "cn_short_local": "Portugal",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PW",
+        "cn_iso_3": "PLW",
+        "cn_iso_nr": "585",
+        "cn_short_en": "Palau",
+        "cn_short_local": "Belau / Palau",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PY",
+        "cn_iso_3": "PRY",
+        "cn_iso_nr": "600",
+        "cn_short_en": "Paraguay",
+        "cn_short_local": "Paraguay",
+        "states": []
+    },
+    {
+        "cn_iso_2": "QA",
+        "cn_iso_3": "QAT",
+        "cn_iso_nr": "634",
+        "cn_short_en": "Qatar",
+        "cn_short_local": "قطر",
+        "states": []
+    },
+    {
+        "cn_iso_2": "RE",
+        "cn_iso_3": "REU",
+        "cn_iso_nr": "638",
+        "cn_short_en": "Reunion",
+        "cn_short_local": "Réunion",
+        "states": []
+    },
+    {
+        "cn_iso_2": "RO",
+        "cn_iso_3": "ROU",
+        "cn_iso_nr": "642",
+        "cn_short_en": "Romania",
+        "cn_short_local": "România",
+        "states": []
+    },
+    {
+        "cn_iso_2": "RU",
+        "cn_iso_3": "RUS",
+        "cn_iso_nr": "643",
+        "cn_short_en": "Russia",
+        "cn_short_local": "Росси́я",
+        "states": []
+    },
+    {
+        "cn_iso_2": "RW",
+        "cn_iso_3": "RWA",
+        "cn_iso_nr": "646",
+        "cn_short_en": "Rwanda",
+        "cn_short_local": "Rwanda",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SA",
+        "cn_iso_3": "SAU",
+        "cn_iso_nr": "682",
+        "cn_short_en": "Saudi Arabia",
+        "cn_short_local": "السعودية",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SB",
+        "cn_iso_3": "SLB",
+        "cn_iso_nr": "90",
+        "cn_short_en": "Solomon Islands",
+        "cn_short_local": "Solomon Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SC",
+        "cn_iso_3": "SYC",
+        "cn_iso_nr": "690",
+        "cn_short_en": "Seychelles",
+        "cn_short_local": "Seychelles",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SD",
+        "cn_iso_3": "SDN",
+        "cn_iso_nr": "736",
+        "cn_short_en": "Sudan",
+        "cn_short_local": "السودان",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SE",
+        "cn_iso_3": "SWE",
+        "cn_iso_nr": "752",
+        "cn_short_en": "Sweden",
+        "cn_short_local": "Sverige",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SG",
+        "cn_iso_3": "SGP",
+        "cn_iso_nr": "702",
+        "cn_short_en": "Singapore",
+        "cn_short_local": "Singapore",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SH",
+        "cn_iso_3": "SHN",
+        "cn_iso_nr": "654",
+        "cn_short_en": "Saint Helena",
+        "cn_short_local": "Saint Helena",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SI",
+        "cn_iso_3": "SVN",
+        "cn_iso_nr": "705",
+        "cn_short_en": "Slovenia",
+        "cn_short_local": "Slovenija",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SJ",
+        "cn_iso_3": "SJM",
+        "cn_iso_nr": "744",
+        "cn_short_en": "Svalbard",
+        "cn_short_local": "Svalbard",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SK",
+        "cn_iso_3": "SVK",
+        "cn_iso_nr": "703",
+        "cn_short_en": "Slovakia",
+        "cn_short_local": "Slovensko",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SL",
+        "cn_iso_3": "SLE",
+        "cn_iso_nr": "694",
+        "cn_short_en": "Sierra Leone",
+        "cn_short_local": "Sierra Leone",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SM",
+        "cn_iso_3": "SMR",
+        "cn_iso_nr": "674",
+        "cn_short_en": "San Marino",
+        "cn_short_local": "San Marino",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SN",
+        "cn_iso_3": "SEN",
+        "cn_iso_nr": "686",
+        "cn_short_en": "Senegal",
+        "cn_short_local": "Sénégal",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SO",
+        "cn_iso_3": "SOM",
+        "cn_iso_nr": "706",
+        "cn_short_en": "Somalia",
+        "cn_short_local": "Soomaaliya",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SR",
+        "cn_iso_3": "SUR",
+        "cn_iso_nr": "740",
+        "cn_short_en": "Suriname",
+        "cn_short_local": "Suriname",
+        "states": []
+    },
+    {
+        "cn_iso_2": "ST",
+        "cn_iso_3": "STP",
+        "cn_iso_nr": "678",
+        "cn_short_en": "São Tomé e Príncipe",
+        "cn_short_local": "São Tomé e Príncipe",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SV",
+        "cn_iso_3": "SLV",
+        "cn_iso_nr": "222",
+        "cn_short_en": "El Salvador",
+        "cn_short_local": "El Salvador",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SY",
+        "cn_iso_3": "SYR",
+        "cn_iso_nr": "760",
+        "cn_short_en": "Syria",
+        "cn_short_local": "سوري",
+        "states": []
+    },
+    {
+        "cn_iso_2": "SZ",
+        "cn_iso_3": "SWZ",
+        "cn_iso_nr": "748",
+        "cn_short_en": "Swaziland",
+        "cn_short_local": "weSwatini",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TC",
+        "cn_iso_3": "TCA",
+        "cn_iso_nr": "796",
+        "cn_short_en": "Turks and Caicos Islands",
+        "cn_short_local": "Turks and Caicos Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TD",
+        "cn_iso_3": "TCD",
+        "cn_iso_nr": "148",
+        "cn_short_en": "Chad",
+        "cn_short_local": "تشاد / Tchad",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TF",
+        "cn_iso_3": "ATF",
+        "cn_iso_nr": "260",
+        "cn_short_en": "French Southern Territories",
+        "cn_short_local": "Terres australes françaises",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TG",
+        "cn_iso_3": "TGO",
+        "cn_iso_nr": "768",
+        "cn_short_en": "Togo",
+        "cn_short_local": "Togo",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TH",
+        "cn_iso_3": "THA",
+        "cn_iso_nr": "764",
+        "cn_short_en": "Thailand",
+        "cn_short_local": "ไทย",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TJ",
+        "cn_iso_3": "TJK",
+        "cn_iso_nr": "762",
+        "cn_short_en": "Tajikistan",
+        "cn_short_local": "Тоҷикистон",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TK",
+        "cn_iso_3": "TKL",
+        "cn_iso_nr": "772",
+        "cn_short_en": "Tokelau",
+        "cn_short_local": "Tokelau",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TM",
+        "cn_iso_3": "TKM",
+        "cn_iso_nr": "795",
+        "cn_short_en": "Turkmenistan",
+        "cn_short_local": "Türkmenistan",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TN",
+        "cn_iso_3": "TUN",
+        "cn_iso_nr": "788",
+        "cn_short_en": "Tunisia",
+        "cn_short_local": "التونسية",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TO",
+        "cn_iso_3": "TON",
+        "cn_iso_nr": "776",
+        "cn_short_en": "Tonga",
+        "cn_short_local": "Tonga",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TL",
+        "cn_iso_3": "TLS",
+        "cn_iso_nr": "626",
+        "cn_short_en": "Timor-Leste",
+        "cn_short_local": "Timor Lorosa'e",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TR",
+        "cn_iso_3": "TUR",
+        "cn_iso_nr": "792",
+        "cn_short_en": "Turkey",
+        "cn_short_local": "Türkiye",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TT",
+        "cn_iso_3": "TTO",
+        "cn_iso_nr": "780",
+        "cn_short_en": "Trinidad and Tobago",
+        "cn_short_local": "Trinidad and Tobago",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TV",
+        "cn_iso_3": "TUV",
+        "cn_iso_nr": "798",
+        "cn_short_en": "Tuvalu",
+        "cn_short_local": "Tuvalu",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TW",
+        "cn_iso_3": "TWN",
+        "cn_iso_nr": "158",
+        "cn_short_en": "Taiwan",
+        "cn_short_local": "中華",
+        "states": []
+    },
+    {
+        "cn_iso_2": "TZ",
+        "cn_iso_3": "TZA",
+        "cn_iso_nr": "834",
+        "cn_short_en": "Tanzania",
+        "cn_short_local": "Tanzania",
+        "states": []
+    },
+    {
+        "cn_iso_2": "UA",
+        "cn_iso_3": "UKR",
+        "cn_iso_nr": "804",
+        "cn_short_en": "Ukraine",
+        "cn_short_local": "Україна",
+        "states": []
+    },
+    {
+        "cn_iso_2": "UG",
+        "cn_iso_3": "UGA",
+        "cn_iso_nr": "800",
+        "cn_short_en": "Uganda",
+        "cn_short_local": "Uganda",
+        "states": []
+    },
+    {
+        "cn_iso_2": "UM",
+        "cn_iso_3": "UMI",
+        "cn_iso_nr": "581",
+        "cn_short_en": "United States Minor Outlying Islands",
+        "cn_short_local": "United States Minor Outlying Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "US",
+        "cn_iso_3": "USA",
+        "cn_iso_nr": "840",
+        "cn_short_en": "United States",
+        "cn_short_local": "United States",
+        "states": [
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "AL",
+                "zn_name_local": "Alabama"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "AK",
+                "zn_name_local": "Alaska"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "AZ",
+                "zn_name_local": "Arizona"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "AR",
+                "zn_name_local": "Arkansas"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "CA",
+                "zn_name_local": "California"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "CO",
+                "zn_name_local": "Colorado"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "CT",
+                "zn_name_local": "Connecticut"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "DE",
+                "zn_name_local": "Delaware"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "DC",
+                "zn_name_local": "District of Columbia"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "FL",
+                "zn_name_local": "Florida"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "GA",
+                "zn_name_local": "Georgia"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "GU",
+                "zn_name_local": "Guam"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "HI",
+                "zn_name_local": "Hawaii"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "ID",
+                "zn_name_local": "Idaho"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "IL",
+                "zn_name_local": "Illinois"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "IN",
+                "zn_name_local": "Indiana"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "IA",
+                "zn_name_local": "Iowa"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "KS",
+                "zn_name_local": "Kansas"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "KY",
+                "zn_name_local": "Kentucky"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "LA",
+                "zn_name_local": "Louisiana"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "ME",
+                "zn_name_local": "Maine"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "MD",
+                "zn_name_local": "Maryland"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "MA",
+                "zn_name_local": "Massachusetts"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "MI",
+                "zn_name_local": "Michigan"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "MN",
+                "zn_name_local": "Minnesota"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "MS",
+                "zn_name_local": "Mississippi"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "MO",
+                "zn_name_local": "Missouri"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "MT",
+                "zn_name_local": "Montana"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "NE",
+                "zn_name_local": "Nebraska"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "NV",
+                "zn_name_local": "Nevada"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "NH",
+                "zn_name_local": "New Hampshire"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "NJ",
+                "zn_name_local": "New Jersey"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "NM",
+                "zn_name_local": "New Mexico"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "NY",
+                "zn_name_local": "New York"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "NC",
+                "zn_name_local": "North Carolina"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "ND",
+                "zn_name_local": "North Dakota"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "OH",
+                "zn_name_local": "Ohio"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "OK",
+                "zn_name_local": "Oklahoma"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "OR",
+                "zn_name_local": "Oregon"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "PA",
+                "zn_name_local": "Pennsylvania"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "PR",
+                "zn_name_local": "Puerto Rico"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "RI",
+                "zn_name_local": "Rhode Island"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "SC",
+                "zn_name_local": "South Carolina"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "SD",
+                "zn_name_local": "South Dakota"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "TN",
+                "zn_name_local": "Tenessee"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "TX",
+                "zn_name_local": "Texas"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "UT",
+                "zn_name_local": "Utah"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "VT",
+                "zn_name_local": "Vermont"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "VA",
+                "zn_name_local": "Virginia"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "WA",
+                "zn_name_local": "Washington"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "WV",
+                "zn_name_local": "West Virginia"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "WI",
+                "zn_name_local": "Wisconsin"
+            },
+            {
+                "zn_country_iso_3": "USA",
+                "zn_country_iso_nr": "840",
+                "zn_code": "WY",
+                "zn_name_local": "Wyoming"
+            }
+        ]
+    },
+    {
+        "cn_iso_2": "UY",
+        "cn_iso_3": "URY",
+        "cn_iso_nr": "858",
+        "cn_short_en": "Uruguay",
+        "cn_short_local": "Uruguay",
+        "states": []
+    },
+    {
+        "cn_iso_2": "UZ",
+        "cn_iso_3": "UZB",
+        "cn_iso_nr": "860",
+        "cn_short_en": "Uzbekistan",
+        "cn_short_local": "O‘zbekiston",
+        "states": []
+    },
+    {
+        "cn_iso_2": "VA",
+        "cn_iso_3": "VAT",
+        "cn_iso_nr": "336",
+        "cn_short_en": "Vatican City",
+        "cn_short_local": "Vaticano",
+        "states": []
+    },
+    {
+        "cn_iso_2": "VC",
+        "cn_iso_3": "VCT",
+        "cn_iso_nr": "670",
+        "cn_short_en": "Saint Vincent and the Grenadines",
+        "cn_short_local": "Saint Vincent and the Grenadines",
+        "states": []
+    },
+    {
+        "cn_iso_2": "VE",
+        "cn_iso_3": "VEN",
+        "cn_iso_nr": "862",
+        "cn_short_en": "Venezuela",
+        "cn_short_local": "Venezuela",
+        "states": []
+    },
+    {
+        "cn_iso_2": "VG",
+        "cn_iso_3": "VGB",
+        "cn_iso_nr": "92",
+        "cn_short_en": "British Virgin Islands",
+        "cn_short_local": "British Virgin Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "VI",
+        "cn_iso_3": "VIR",
+        "cn_iso_nr": "850",
+        "cn_short_en": "US Virgin Islands",
+        "cn_short_local": "US Virgin Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "VN",
+        "cn_iso_3": "VNM",
+        "cn_iso_nr": "704",
+        "cn_short_en": "Vietnam",
+        "cn_short_local": "Việt Nam",
+        "states": []
+    },
+    {
+        "cn_iso_2": "VU",
+        "cn_iso_3": "VUT",
+        "cn_iso_nr": "548",
+        "cn_short_en": "Vanuatu",
+        "cn_short_local": "Vanuatu",
+        "states": []
+    },
+    {
+        "cn_iso_2": "WF",
+        "cn_iso_3": "WLF",
+        "cn_iso_nr": "876",
+        "cn_short_en": "Wallis and Futuna",
+        "cn_short_local": "Wallis and Futuna",
+        "states": []
+    },
+    {
+        "cn_iso_2": "WS",
+        "cn_iso_3": "WSM",
+        "cn_iso_nr": "882",
+        "cn_short_en": "Samoa",
+        "cn_short_local": "Samoa",
+        "states": []
+    },
+    {
+        "cn_iso_2": "YE",
+        "cn_iso_3": "YEM",
+        "cn_iso_nr": "887",
+        "cn_short_en": "Yemen",
+        "cn_short_local": "اليمنية",
+        "states": []
+    },
+    {
+        "cn_iso_2": "YT",
+        "cn_iso_3": "MYT",
+        "cn_iso_nr": "175",
+        "cn_short_en": "Mayotte",
+        "cn_short_local": "Mayotte",
+        "states": []
+    },
+    {
+        "cn_iso_2": "ZA",
+        "cn_iso_3": "ZAF",
+        "cn_iso_nr": "710",
+        "cn_short_en": "South Africa",
+        "cn_short_local": "Afrika-Borwa",
+        "states": []
+    },
+    {
+        "cn_iso_2": "ZM",
+        "cn_iso_3": "ZMB",
+        "cn_iso_nr": "894",
+        "cn_short_en": "Zambia",
+        "cn_short_local": "Zambia",
+        "states": []
+    },
+    {
+        "cn_iso_2": "ZW",
+        "cn_iso_3": "ZWE",
+        "cn_iso_nr": "716",
+        "cn_short_en": "Zimbabwe",
+        "cn_short_local": "Zimbabwe",
+        "states": []
+    },
+    {
+        "cn_iso_2": "PS",
+        "cn_iso_3": "PSE",
+        "cn_iso_nr": "275",
+        "cn_short_en": "Palestine",
+        "cn_short_local": "Palestine",
+        "states": []
+    },
+    {
+        "cn_iso_2": "CS",
+        "cn_iso_3": "CSG",
+        "cn_iso_nr": "891",
+        "cn_short_en": "Serbia and Montenegro",
+        "cn_short_local": "Србија и Црна Гора",
+        "states": []
+    },
+    {
+        "cn_iso_2": "AX",
+        "cn_iso_3": "ALA",
+        "cn_iso_nr": "248",
+        "cn_short_en": "Åland Islands",
+        "cn_short_local": "Åland Islands",
+        "states": []
+    },
+    {
+        "cn_iso_2": "HM",
+        "cn_iso_3": "HMD",
+        "cn_iso_nr": "334",
+        "cn_short_en": "Heard Island and McDonald Islands",
+        "cn_short_local": "Heard Island and McDonald Islands",
+        "states": []
+    }
+]
