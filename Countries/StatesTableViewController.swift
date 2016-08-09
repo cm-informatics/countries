@@ -19,7 +19,7 @@ class StatesTableViewController: UITableViewController {
         // Uncomment the following line to preserve selection between presentations
         // self.clearsSelectionOnViewWillAppear = false
         
-        navigationItem.title = "States \(anzahlStaaten)"
+        navigationItem.title = "States (\(anzahlStaaten))"
     }
 
     func initWithStates(states: NSArray, numberOfStates: NSInteger) -> Void {
@@ -39,15 +39,15 @@ class StatesTableViewController: UITableViewController {
 
     
     override func tableView(tableView: UITableView, cellForRowAtIndexPath indexPath: NSIndexPath) -> UITableViewCell {
-        //let cell = tableView.dequeueReusableCellWithIdentifier("reuseIdentifier", forIndexPath: indexPath)
-        let cell: UITableViewCell = UITableViewCell()
-
-        // Configure the cell...
+        
+        // Programatically define a reuse identifier for the cell
+        tableView.registerClass(UITableViewCell.self, forCellReuseIdentifier: "statesCell")
+        let cell = tableView.dequeueReusableCellWithIdentifier("statesCell", forIndexPath: indexPath)
+        
         cell.textLabel?.text = staaten[indexPath.row] as? String
         return cell
     }
     
-
     /*
     // Override to support conditional editing of the table view.
     override func tableView(tableView: UITableView, canEditRowAtIndexPath indexPath: NSIndexPath) -> Bool {

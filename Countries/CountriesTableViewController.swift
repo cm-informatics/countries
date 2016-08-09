@@ -8,21 +8,9 @@
 
 import UIKit
 
-/*extension CountriesTableViewController: UISearchResultsUpdating
-{
-    func updateSearchResultsForSearchController(searchController: UISearchController)
-    {
-        //filterContentForSearchText(searchController.searchBar.text!)
-    }
- 
-}
-*/
-
 class CountriesTableViewController: UITableViewController, UISearchBarDelegate, UISearchResultsUpdating {
 
     var countries: NSArray = []
-    //var countries = [String]()
-    //var filteredCountries = [String]()
     var filteredCountries: NSArray = []
     var shouldShowSearchResults = false
     
@@ -61,19 +49,19 @@ class CountriesTableViewController: UITableViewController, UISearchBarDelegate, 
         searchController.searchBar.placeholder = "Search here..."
         searchController.searchBar.delegate = self
         searchController.searchBar.sizeToFit()
-        //definesPresentationContext = true
         searchController.hidesNavigationBarDuringPresentation = false
         self.tableView.tableHeaderView = searchController.searchBar
     }
     
     func searchBarTextDidBeginEditing(searchBar: UISearchBar) {
-        shouldShowSearchResults = true
-        tableView.reloadData()
+        /*shouldShowSearchResults = true
+        tableView.reloadData()*/
     }
     
     func searchBarTextDidEndEditing(searchBar: UISearchBar) {
         
-        if searchBar.text != "" {  // To still display the search results, not the whole list
+        // To still display the search results when the search button is tapped, not the whole list
+        if searchBar.text != "" {
             shouldShowSearchResults = true
         }
         else{
@@ -98,6 +86,13 @@ class CountriesTableViewController: UITableViewController, UISearchBarDelegate, 
     
     func updateSearchResultsForSearchController(searchController: UISearchController) {
         let searchString = searchController.searchBar.text
+        
+        if searchString != ""{
+            shouldShowSearchResults = true
+        }
+        else{
+            shouldShowSearchResults = false
+        }
         
         // Filter the data array and get only those countries that match the search text.
         filteredCountries = countries.filter({ (country) -> Bool in
@@ -159,6 +154,7 @@ class CountriesTableViewController: UITableViewController, UISearchBarDelegate, 
         
         if tableView.cellForRowAtIndexPath(indexPath)?.accessoryType == .DisclosureIndicator
         {
+            // Hide search bar and keyboard when presenting a detail view
             searchController.searchBar.hidden = true
             searchController.searchBar.resignFirstResponder()
             
